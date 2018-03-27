@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: cb6a7c6aac79d7a49b48184f790899bd
+timeCreated: 1520403415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Camera
+    100004: eff_head
+    100006: eff_head_end
+    100008: eff_hip
+    100010: eff_hip_end
+    100012: kasa_jnt
+    100014: kasa_jnt_end
+    100016: kosi_jnt
+    100018: kubi_jnt
+    100020: L_asi_jnt
+    100022: L_hiji_jnt
+    100024: L_kata
+    100026: L_kata_end
+    100028: L_momo_jnt
+    100030: L_sune_jnt
+    100032: L_te_jnt
+    100034: L_tekubi
+    100036: L_tekubi_end
+    100038: L_tuma_jnt
+    100040: L_tuma_jnt_end
+    100042: L_ude_jnt
+    100044: L_yubi00a_jnt
+    100046: L_yubi00b_jnt
+    100048: L_yubi00b_jnt_end
+    100050: L_yubi01a_jnt
+    100052: L_yubi01b_jnt
+    100054: L_yubi01b_jnt_end
+    100056: L_yubi02a_jnt
+    100058: L_yubi02b_jnt
+    100060: L_yubi02b_jnt_end
+    100062: Lamp
+    100064: mune_jnt
+    100066: R_asi_jnt
+    100068: R_hiji_jnt
+    100070: R_kata
+    100072: R_kata_end
+    100074: R_momo_jnt
+    100076: R_sune_jnt
+    100078: R_te_jnt
+    100080: R_tekubi
+    100082: R_tekubi_end
+    100084: R_tuma_jnt
+    100086: R_tuma_jnt_end
+    100088: R_ude_jnt
+    100090: R_yubi00a_jnt
+    100092: R_yubi00b_jnt
+    100094: R_yubi00b_jnt_end
+    100096: R_yubi01a_jnt
+    100098: R_yubi01b_jnt
+    100100: R_yubi01b_jnt_end
+    100102: R_yubi02a_jnt
+    100104: R_yubi02b_jnt
+    100106: R_yubi02b_jnt_end
+    100108: root
+    100110: Toad
+    100112: //RootNode
+    100114: top_kuchi_jnt
+    100116: top_kuchi_jnt_end
+    100118: trans
+    100120: trans_end
+    100122: under_kuchi_jnt
+    100124: under_kuchi_jnt_end
+    400000: Armature
+    400002: Camera
+    400004: eff_head
+    400006: eff_head_end
+    400008: eff_hip
+    400010: eff_hip_end
+    400012: kasa_jnt
+    400014: kasa_jnt_end
+    400016: kosi_jnt
+    400018: kubi_jnt
+    400020: L_asi_jnt
+    400022: L_hiji_jnt
+    400024: L_kata
+    400026: L_kata_end
+    400028: L_momo_jnt
+    400030: L_sune_jnt
+    400032: L_te_jnt
+    400034: L_tekubi
+    400036: L_tekubi_end
+    400038: L_tuma_jnt
+    400040: L_tuma_jnt_end
+    400042: L_ude_jnt
+    400044: L_yubi00a_jnt
+    400046: L_yubi00b_jnt
+    400048: L_yubi00b_jnt_end
+    400050: L_yubi01a_jnt
+    400052: L_yubi01b_jnt
+    400054: L_yubi01b_jnt_end
+    400056: L_yubi02a_jnt
+    400058: L_yubi02b_jnt
+    400060: L_yubi02b_jnt_end
+    400062: Lamp
+    400064: mune_jnt
+    400066: R_asi_jnt
+    400068: R_hiji_jnt
+    400070: R_kata
+    400072: R_kata_end
+    400074: R_momo_jnt
+    400076: R_sune_jnt
+    400078: R_te_jnt
+    400080: R_tekubi
+    400082: R_tekubi_end
+    400084: R_tuma_jnt
+    400086: R_tuma_jnt_end
+    400088: R_ude_jnt
+    400090: R_yubi00a_jnt
+    400092: R_yubi00b_jnt
+    400094: R_yubi00b_jnt_end
+    400096: R_yubi01a_jnt
+    400098: R_yubi01b_jnt
+    400100: R_yubi01b_jnt_end
+    400102: R_yubi02a_jnt
+    400104: R_yubi02b_jnt
+    400106: R_yubi02b_jnt_end
+    400108: root
+    400110: Toad
+    400112: //RootNode
+    400114: top_kuchi_jnt
+    400116: top_kuchi_jnt_end
+    400118: trans
+    400120: trans_end
+    400122: under_kuchi_jnt
+    400124: under_kuchi_jnt_end
+    2000000: Camera
+    2100000: Material__128
+    2100002: Material__129
+    4300000: Toad
+    7400000: toadIdle
+    7400002: Armature|ArmatureAction
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Toad
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: toadIdle
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/kosi_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/eff_hip
+        weight: 1
+      - path: Armature/root/kosi_jnt/eff_hip/eff_hip_end
+        weight: 1
+      - path: Armature/root/kosi_jnt/L_momo_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/L_momo_jnt/L_sune_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/L_momo_jnt/L_sune_jnt/L_asi_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/L_momo_jnt/L_sune_jnt/L_asi_jnt/L_tuma_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/L_momo_jnt/L_sune_jnt/L_asi_jnt/L_tuma_jnt/L_tuma_jnt_end
+        weight: 1
+      - path: Armature/root/kosi_jnt/R_momo_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/R_momo_jnt/R_sune_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/R_momo_jnt/R_sune_jnt/R_asi_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/R_momo_jnt/R_sune_jnt/R_asi_jnt/R_tuma_jnt
+        weight: 1
+      - path: Armature/root/kosi_jnt/R_momo_jnt/R_sune_jnt/R_asi_jnt/R_tuma_jnt/R_tuma_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/eff_head
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/eff_head/eff_head_end
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/kasa_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/kasa_jnt/kasa_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/top_kuchi_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/top_kuchi_jnt/top_kuchi_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/under_kuchi_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/kubi_jnt/under_kuchi_jnt/under_kuchi_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/L_kata
+        weight: 1
+      - path: Armature/root/mune_jnt/L_kata/L_kata_end
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi00a_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi00a_jnt/L_yubi00b_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi00a_jnt/L_yubi00b_jnt/L_yubi00b_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi01a_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi01a_jnt/L_yubi01b_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi01a_jnt/L_yubi01b_jnt/L_yubi01b_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi02a_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi02a_jnt/L_yubi02b_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_te_jnt/L_yubi02a_jnt/L_yubi02b_jnt/L_yubi02b_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_tekubi
+        weight: 1
+      - path: Armature/root/mune_jnt/L_ude_jnt/L_hiji_jnt/L_tekubi/L_tekubi_end
+        weight: 1
+      - path: Armature/root/mune_jnt/R_kata
+        weight: 1
+      - path: Armature/root/mune_jnt/R_kata/R_kata_end
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi00a_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi00a_jnt/R_yubi00b_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi00a_jnt/R_yubi00b_jnt/R_yubi00b_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi01a_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi01a_jnt/R_yubi01b_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi01a_jnt/R_yubi01b_jnt/R_yubi01b_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi02a_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi02a_jnt/R_yubi02b_jnt
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_te_jnt/R_yubi02a_jnt/R_yubi02b_jnt/R_yubi02b_jnt_end
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_tekubi
+        weight: 1
+      - path: Armature/root/mune_jnt/R_ude_jnt/R_hiji_jnt/R_tekubi/R_tekubi_end
+        weight: 1
+      - path: Armature/root/trans
+        weight: 1
+      - path: Armature/root/trans/trans_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Toad
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
